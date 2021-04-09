@@ -1,0 +1,36 @@
+.titulo {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subtitulo {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.perfil {
+    background:url(../../assets/img/fondo.jpg);
+}
+
+.foto {
+    background:url(../../assets/img/exp.jpg);
+}
+.experinece {
+    background-size: 38% 100% !important;margin-bottom:140px;
+}
+
+.experinece h5{font-family: 'Old Standard TT', serif;margin-bottom: 50px;}
+
+header {
+    background: #000000;
+    height: 380px;
+    padding: 60px 0 200px;
+    position: relative;
+}
+
+
+footer {padding: 40px 0;background: #000;color: #fff;float: left;
+    width: 100%;}
+
+
+    
